@@ -1,4 +1,40 @@
 img{
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 80px;
+}
+
+body{
+    height:100%;
+    width:100%;
+}
+
+#genre1{
+    display: flex;
+    justify-content: center;
+}
+#result1{
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+#container11{
+    display: flex;
+    align-content: space-around;
+}
+
+#genre2{
+    display: flex;
+    justify-content: center;
+}
+#result2{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+
+#container12{
+    display: flex;
+    align-content: space-between;
 }

@@ -7,12 +7,13 @@ const electronic = data.filter(song =>{
 })
 .map(song =>{
     return `
-    <div>  ${song.artist} <br> ${song.genre} <br> ${song.song} </div>
+    <div id = 'container11'>
+    <div>  ${song.artist} <br> ${song.genre} <br> ${song.song} <br> <a href = ${song.video}>song link </a> </div>
     <img src = ${song.image}>
     <br>
-    <a href = ${song.video}>song link </a>
     <br>
     <br>
+    </div>
     `;
 })
 .join('');
@@ -22,12 +23,13 @@ const pop = data.filter(song =>{
 })
 .map(song =>{
     return `
-    <div>  ${song.artist} <br> ${song.genre} <br> ${song.song} </div>
+    <div id = 'container12'>
+    <div>  ${song.artist} <br> ${song.genre} <br> ${song.song} <br> <a href = ${song.video}>song link </a> </div>
     <img src = ${song.image}>
     <br>
-    <a href = ${song.video}>song link </a>
     <br>
     <br>
+    </div>
     `;
 })
 .join('');
