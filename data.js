@@ -119,5 +119,47 @@ const data = [
         image: 'https://images-na.ssl-images-amazon.com/images/I/41NKk2fHW6L._SY355_.jpg',
         video:'https://www.youtube.com/watch?v=UqyT8IEBkvY'
     },
+    {
+        artist: '',
+        genre:'rock',
+        song:'',
+        image:'',
+        video:''
+    },
+    {
+        artist: '',
+        genre:'rock',
+        song:'',
+        image:'',
+        video:''
+    },
+    {
+        artist: '',
+        genre:'rock',
+        song:'',
+        image:'',
+        video:''
+    },
+    {
+        artist: '',
+        genre:'rock',
+        song:'',
+        image:'',
+        video:''
+    },
+    {
+        artist: '',
+        genre:'rock',
+        song:'',
+        image:'',
+        video:''
+    },
+    {
+        artist: '',
+        genre:'rock',
+        song:'',
+        image:'',
+        video:''
+    },
     
 ];
