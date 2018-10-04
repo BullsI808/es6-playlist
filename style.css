@@ -5,8 +5,9 @@ img{
 
 body{
     height:100%;
-    widows: 98%;
+    width: 98%;
 }
+/* 100% width makes this look a bit weird so i changed it to 98 because it provides the best look */
 
 #navigation{
     display: flex;

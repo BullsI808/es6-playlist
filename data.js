@@ -124,47 +124,47 @@ const data = [
         genre: 'rap', 
         song: 'head in the clouds',
         image: 'https://i.ytimg.com/vi/CX4fG9jLz_o/maxresdefault.jpg',
-        video:''
+        video:'https://www.youtube.com/watch?v=CX4fG9jLz_o'
     },
 
     {
         artist: 'DJ khalid',
         genre: 'rap', 
         song: 'im the one',
-        image: '',
-        video:''
+        image: 'https://i.ytimg.com/vi/weeI1G46q0o/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=pg60q_MhA5g'
     },
 
     {
         artist: 'ayo & teo',
         genre: 'rap', 
         song: 'rolex',
-        image: '',
-        video:''
+        image: 'https://i.ytimg.com/vi/4LNXovWNmWQ/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=lwk5OUII9Vc'
     },
 
     {
         artist: 'migos',
         genre: 'rap', 
         song: 'stir fry',
-        image: '',
-        video:''
+        image: 'https://i.ytimg.com/vi/HI-mXMr8glQ/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=r2_aIixdTF4'
     },
 
     {
         artist: 'KYLE',
         genre: 'rap', 
         song: 'ispy',
-        image: '',
-        video:''
+        image: 'https://i.ytimg.com/vi/5XK4v2fgMPU/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=sY3WWnqbY5Q'
     },
 
     {
         artist: 'lil dicky',
         genre: 'rap', 
         song: 'freaky friday',
-        image: '',
-        video:''
+        image: 'https://i.ytimg.com/vi/8SgmWihcCYM/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=1tmRSmdMNm4'
     },
 
     {
@@ -216,66 +216,154 @@ const data = [
     },
 
     {
+        artist:'bee gees',
+        genre:'pop',
+        song:'stayin alive',
+        image:'https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Bee_Gees_Stayin_Alive.jpg/220px-Bee_Gees_Stayin_Alive.jpg',
+        video:'https://www.youtube.com/watch?v=I_izvAbhExY'
+    },
+
+    {
+        artist:'village people',
+        genre:'pop',
+        song:'YMCA',
+        image:'https://static.spin.com/files/120509-village-people-640x426.png',
+        video:'https://www.youtube.com/watch?v=mMPSyOB2qNo'
+    },
+
+    {
+        artist:'rick astley',
+        genre:'pop',
+        song:'never gonna give you up',
+        image:'https://i.ytimg.com/vi/dQw4w9WgXcQ/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+    },
+
+    {
+        artist:'cartoons',
+        genre:'pop',
+        song:'witch doctor',
+        image:'https://i.ytimg.com/vi/EAhL6aaxlPQ/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=TYgOlqinH7A'
+    },
+
+    {
+        artist:'smash mouth',
+        genre:'pop',
+        song:'all star',
+        image:'https://i.ytimg.com/vi/L_jWHffIx5E/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=L_jWHffIx5E'
+    },
+
+    {
         artist: 'the eagles',
         genre:'rock',
         song:'hotel california',
-        image:'',
-        video:''
+        image:'https://images-na.ssl-images-amazon.com/images/I/91eh6ApLnzL._SY355_.jpg',
+        video:'https://www.youtube.com/watch?v=aNyK6EcHlzM'
     },
 
     {
         artist: 'three days grace',
         genre:'rock',
         song:'time of dying',
-        image:'',
-        video:''
+        image:'https://i.ytimg.com/vi/x9W598i7hGU/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=x9W598i7hGU'
     },
 
     {
         artist: 'skillet',
         genre:'rock',
         song:'monster',
-        image:'',
-        video:''
+        image:'https://i.ytimg.com/vi/1mjlM_RnsVE/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=1mjlM_RnsVE'
     },
 
     {
         artist: 'three days grace',
         genre:'rock',
         song:'not too late',
-        image:'',
-        video:''
+        image:'https://i.ytimg.com/vi/GP8VU7ofxn8/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=SRbA_JzFKuA'
     },
 
     {
         artist: 'nickel back',
         genre:'rock',
         song:'far away',
-        image:'',
-        video:''
+        image:'https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Far_Away.jpg/220px-Far_Away.jpg',
+        video:'https://www.youtube.com/watch?v=j4y-RzVGrHg'
     },
 
     {
         artist: 'nickel back',
         genre:'rock',
         song:'rockstar',
-        image:'',
-        video:''
+        image:'https://i.ytimg.com/vi/8jzCTnctiuA/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=6lq3voaRrMM'
     },
     
     {
         artist: 'survivor',
         genre:'rock',
         song:'eye of the tiger',
-        image:'',
-        video:''
+        image:'https://i.ytimg.com/vi/FLZS3jQPnKw/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=btPJPFnesV4'
     },
 
     {
         artist: 'bon jovi',
         genre:'rock',
         song:'wanted dead or alive',
-        image:'',
-        video:''
+        image:'https://i.ytimg.com/vi/SRvCvsRp5ho/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=SRvCvsRp5ho'
+    },
+
+    {
+        artist: 'queen',
+        genre:'rock',
+        song:'bohemian rhapsody',
+        image:'https://images-na.ssl-images-amazon.com/images/I/51an%2Buz6PAL._SY355_.jpg',
+        video:'https://www.youtube.com/watch?v=fJ9rUzIMcZQ'
+    },
+
+    {
+        artist: 'aerosmith',
+        genre:'rock',
+        song:'dream on',
+        image:'https://i.ytimg.com/vi/ooN41rLTEIk/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=3-2u2lhGO4w'
+    },
+
+    {
+        artist: 'AC/DC',
+        genre:'rock',
+        song:'back in black',
+        image:'https://i.ytimg.com/vi/EE4u3HB1rUw/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=pAgnJDJN4VA'
+    },
+
+    {
+        artist: 'AC/DC',
+        genre:'rock',
+        song:'thunderstruck',
+        image:'https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/ACDC-Thunderstruck.png/220px-ACDC-Thunderstruck.png',
+        video:'https://www.youtube.com/watch?v=v2AC41dglnM'
+    },
+
+    {
+        artist: 'bon jovi',
+        genre:'rock',
+        song:'livin on a prayer',
+        image:'https://i.ytimg.com/vi/lDK9QqIzhwk/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=lDK9QqIzhwk'
+    },
+
+    {
+        artist: 'journey',
+        genre:'rock',
+        song:'dont stop believin',
+        image:'https://i.ytimg.com/vi/gWU8YyYjm5c/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=1k8craCGpgs'
     },
 ];
