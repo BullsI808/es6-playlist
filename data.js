@@ -366,4 +366,148 @@ const data = [
         image:'https://i.ytimg.com/vi/gWU8YyYjm5c/maxresdefault.jpg',
         video:'https://www.youtube.com/watch?v=1k8craCGpgs'
     },
+
+    {
+        artist:'girls generation',
+        genre:'kpop',
+        song:'gee',
+        image:'https://i.ytimg.com/vi/U7mPqycQ0tQ/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=U7mPqycQ0tQ'
+    },
+
+    {
+        artist:'TWICE',
+        genre:'kpop',
+        song:'what is love',
+        image:'https://i.ytimg.com/vi/i0p1bmr0EmE/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=i0p1bmr0EmE'
+    },
+
+    {
+        artist:'TWICE',
+        genre:'kpop',
+        song:'likey',
+        image:'https://i.ytimg.com/vi/V2hlQkVJZhE/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=V2hlQkVJZhE'
+    },
+
+    {
+        artist:'MOMOLAND',
+        genre:'kpop',
+        song:'baam',
+        image:'https://i.ytimg.com/vi/txWmd7QKFe8/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=txWmd7QKFe8'
+    },
+
+    {
+        artist:'PSY',
+        genre:'kpop',
+        song:'DADDY',
+        image:'https://i.ytimg.com/vi/FrG4TEcSuRg/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=FrG4TEcSuRg'
+    },
+
+    {
+        artist:'PSY',
+        genre:'kpop',
+        song:'gangnam style',
+        image:'https://i.ytimg.com/vi/9bZkp7q19f0/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=9bZkp7q19f0'
+    },
+
+    {
+        artist:'sunstroke project',
+        genre:'memes',
+        song:'run away',
+        image:'https://i.ytimg.com/vi/DNTdDczhYuE/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=pHXDMe6QV-U'
+    },
+
+    {
+        artist:'awolnation',
+        genre:'memes',
+        song:'sail',
+        image:'https://i.ytimg.com/vi/NcSg6Z1ROOo/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=tgIqecROs5M'
+    },
+
+    {
+        artist:'drake',
+        genre:'memes',
+        song:'hotline bling',
+        image:'https://i.ytimg.com/vi/uxpDa-c-4Mc/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=uxpDa-c-4Mc'
+    },
+
+    {
+        artist:'bazzi',
+        genre:'memes',
+        song:'mine',
+        image:'https://i.ytimg.com/vi/_O48Cysvyho/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=Gc71AmT_b2k'
+    },
+
+    {
+        artist:'yes',
+        genre:'memes',
+        song:'roundabout',
+        image:'https://vignette.wikia.nocookie.net/jjba/images/0/0f/Jojo_ED1.jpg/revision/latest?cb=20161224022029',
+        video:'https://www.youtube.com/watch?v=cPCLFtxpadE'
+    },
+
+    {
+        artist:'ween',
+        genre:'memes',
+        song:'ocean man',
+        image:'https://i.ytimg.com/vi/tkzY_VwNIek/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=tkzY_VwNIek'
+    },
+
+    {
+        artist:'imogen heap',
+        genre:'memes',
+        song:'hide and seek',
+        image:'https://img.discogs.com/DJkoxmgqQBZ8RBd2Zo9pRyN974o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-880823-1169058994.jpeg.jpg',
+        video:'https://www.youtube.com/watch?v=UYIAfiVGluk'
+    },
+
+    {
+        artist:'yeah yeah yeahs',
+        genre:'memes',
+        song:'heads will roll',
+        image:'https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Headswillroll.jpg/220px-Headswillroll.jpg',
+        video:'https://www.youtube.com/watch?v=auzfTPp4moA'
+    },
+
+    {
+        artist:'enya',
+        genre:'memes',
+        song:'only time',
+        image:'https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Enya_-_Only_Time_cover.jpg/220px-Enya_-_Only_Time_cover.jpg',
+        video:'https://www.youtube.com/watch?v=7wfYIMyS_dI'
+    },
+
+    {
+        artist:'bag raiders',
+        genre:'memes',
+        song:'shooting stars',
+        image:'https://i.ytimg.com/vi/fG-H5Zn5Coo/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=feA64wXhbjo'
+    },
+
+    {
+        artist:'chamillionaire',
+        genre:'memes',
+        song:'ridin',
+        image:'https://i.ytimg.com/vi/Qp-cu1NtrLE/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=jyszP2M8LFI'
+    },
+
+    {
+        artist:'haddaway',
+        genre:'memes',
+        song:'what is love',
+        image:'https://i.ytimg.com/vi/Ma24wmAjRGo/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=HEXWRTEbj1I'
+    },
 ];
