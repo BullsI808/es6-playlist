@@ -10,6 +10,20 @@ const btn5 = document.querySelector('#btn5');
 const btn6 = document.querySelector('#btn6');
 const randomBtn = document.querySelector('#randomBtn');
 
+//base page code
+
+const home = data.filter(song =>{
+    return song.genre === 'home';
+})
+.map(song =>{
+    return `
+    <h2> click the buttons above to pick a genre or a random song </h2>
+    `
+})
+.join('');
+
+result1.innerHTML = home;
+
 //electronic code
 
 const electronic = data.filter(song =>{
@@ -119,10 +133,12 @@ btn2.addEventListener('click', () =>{
 
 btn3.addEventListener('click', () =>{
     result1.innerHTML = rap;
+    alert('There is explicit content under this genre. You have been warned.');
 });
 
 btn4.addEventListener('click', ()=>{
     result1.innerHTML = rock;
+    alert('Some songs may have explicit content. You have been warned.')
 });
 
 btn5.addEventListener('click', () =>{

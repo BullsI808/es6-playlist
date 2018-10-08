@@ -1,5 +1,9 @@
 const data = [
     {
+        genre:'home'
+    },
+
+    {
         artist: 'shapov & trouze',
         genre: 'electronic',
         song: 'the way',
@@ -120,6 +124,50 @@ const data = [
     },
 
     {
+        artist:'jon andreas edland',
+        genre:'electronic',
+        song:'facing greater forces',
+        image:'https://i.ytimg.com/vi/BCsUfZg04n0/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=BCsUfZg04n0'
+    },
+
+    {
+        artist:'pegboard nerds',
+        genre:'electronic',
+        song:'disconnected',
+        image:'https://vignette.wikia.nocookie.net/monstercat/images/0/09/Pegboard_Nerds_-_Disconnected.jpg/revision/latest?cb=20150819184106',
+        video:'https://www.youtube.com/watch?v=MwSkC85TDgY'
+    },
+
+
+    {
+        artist:'marshmello',
+        genre:'electronic',
+        song:'silence',
+        image:'https://i.ytimg.com/vi/tk36ovCMsU8/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=tk36ovCMsU8'
+    },
+
+
+    {
+        artist:'pegboard nerds & NGHTMRE',
+        genre:'electronic',
+        song:'superstar',
+        image:'https://i.ytimg.com/vi/QHnVn9PYkRM/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=r8ipnYILAHQ'
+    },
+
+
+    {
+        artist:'OVERWERK',
+        genre:'electronic',
+        song:'house',
+        image:'https://i.ytimg.com/vi/UyAPIZP8Gfo/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=2mJshFwVOj0'
+    },
+
+
+    {
         artist: 'joji',
         genre: 'rap', 
         song: 'head in the clouds',
@@ -165,6 +213,54 @@ const data = [
         song: 'freaky friday',
         image: 'https://i.ytimg.com/vi/8SgmWihcCYM/maxresdefault.jpg',
         video:'https://www.youtube.com/watch?v=1tmRSmdMNm4'
+    },
+
+    {
+        artist:'juice wrld',
+        genre:'rap',
+        song:'lucid dream',
+        image:'https://i.ytimg.com/vi/onbC6N-QGPc/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=_fh64GbFSw4'
+    },
+
+    {
+        artist:'post malone',
+        genre:'rap',
+        song:'better now',
+        image:'https://i.ytimg.com/vi/0tTn95TLIaw/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=-yHoa4MR0W4'
+    },
+
+    {
+        artist:'NEFFEX',
+        genre:'rap',
+        song:'life',
+        image:'https://i.ytimg.com/vi/TPCaWQQo11A/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=zyKGKoGACVk'
+    },
+
+    {
+        artist:'NEFFEX',
+        genre:'rap',
+        song:'things are gonna get better',
+        image:'https://i.ytimg.com/vi/FHW7rIRQl38/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=FHW7rIRQl38'
+    },
+
+    {
+        artist:'NEFFEX',
+        genre:'rap',
+        song:'numb',
+        image:'https://i.ytimg.com/vi/lJkEF0_QigU/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=lJkEF0_QigU'
+    },
+
+    {
+        artist:'NEFFEX',
+        genre:'rap',
+        song:'pro',
+        image:'https://i.ytimg.com/vi/FKcDtEtT3wU/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=FKcDtEtT3wU'
     },
 
     {
@@ -365,6 +461,70 @@ const data = [
         song:'dont stop believin',
         image:'https://i.ytimg.com/vi/gWU8YyYjm5c/maxresdefault.jpg',
         video:'https://www.youtube.com/watch?v=1k8craCGpgs'
+    },
+
+    {
+        artist:'coyote kisses',
+        genre:'rock',
+        song:'six shooter',
+        image:'https://i.ytimg.com/vi/xkFZn4oPMqE/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=xkFZn4oPMqE'
+    },
+    
+    {
+        artist:'NEFFEX',
+        genre:'rock',
+        song:'backstage',
+        image:'https://i.ytimg.com/vi/HFAmjqY1DQg/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=HFAmjqY1DQg'
+    },
+
+    {
+        artist:'NEFFEX',
+        genre:'rock',
+        song:'rumors',
+        image:'https://i.ytimg.com/vi/BwEZaariQQ4/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=kXptPzKNMq4'
+    },
+
+    {
+        artist:'NEFFEX',
+        genre:'rock',
+        song:'best of me',
+        image:'https://i.ytimg.com/vi/A4LiP8WFuG0/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=A4LiP8WFuG0'
+    },
+
+    {
+        artist:'NEFFEX',
+        genre:'rock',
+        song:'grateful',
+        image:'https://i.ytimg.com/vi/83RUhxsfLWs/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=83RUhxsfLWs'
+    },
+
+    {
+        artist:'starset',
+        genre:'rock',
+        song:'my demons',
+        image:'https://i.ytimg.com/vi/adXKTphElEY/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=LSvOTw8UH6s'
+    },
+
+    {
+        artist:'offspring',
+        genre:'rock',
+        song:'youre gonna go far kid',
+        image:'https://i.ytimg.com/vi/cTbB703XZFM/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=cTbB703XZFM'
+    },
+
+    {
+        artist:'offspring',
+        genre:'rock',
+        song:'pretty fly',
+        image:'https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/TheOffspringPrettyFlyforaWhiteGuy.jpg/220px-TheOffspringPrettyFlyforaWhiteGuy.jpg',
+        video:'https://www.youtube.com/watch?v=0DRAzRmsyC4'
     },
 
     {
