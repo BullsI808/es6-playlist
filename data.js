@@ -166,6 +166,93 @@ const data = [
         video:'https://www.youtube.com/watch?v=2mJshFwVOj0'
     },
 
+    {
+        artist:'radio gosha',
+        genre:'electronic',
+        song:'sexy vampire',
+        image:'https://i.ytimg.com/vi/7Na1A6lSHns/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=7Na1A6lSHns'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'electronic',
+        song:'superhero',
+        image:'https://i.ytimg.com/vi/ol1ijzAHy-4/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=ol1ijzAHy-4'
+    },
+
+    {
+        artist:'s3rl',
+        gnere:'electronic',
+        song:'nostalgic',
+        image:'https://i.ytimg.com/vi/5qTjguPCgc8/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=5qTjguPCgc8'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'planet rave',
+        image:'https://i.ytimg.com/vi/yKy1tmA_TvM/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=yKy1tmA_TvM'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'candy',
+        image:'https://i.ytimg.com/vi/a6nM9cD6rF0/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=a6nM9cD6rF0'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'flame princess',
+        image:'https://i.ytimg.com/vi/ukvXXk4O4I8/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=ukvXXk4O4I8'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'MTC deffirent heaven remix',
+        image:'https://i.ytimg.com/vi/sNVfoVYTD8o/hqdefault.jpg',
+        video:'https://www.youtube.com/watch?v=sNVfoVYTD8o'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'MTC 2',
+        image:'https://i.ytimg.com/vi/RXyHIhh_T7g/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=RXyHIhh_T7g'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'MTC saga',
+        image:'https://i.ytimg.com/vi/er6OYKP20n0/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=er6OYKP20n0'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'scary movie',
+        image:'https://i.ytimg.com/vi/Rf6rLPdqqso/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=Rf6rLPdqqso'
+    },
+
+    {
+        artist:'s3rl',
+        genre:'NSFWelectronic',
+        song:'jaded AF',
+        image:'https://i.ytimg.com/vi/K32v3Tv59cE/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=K32v3Tv59cE'
+    },
 
     {
         artist: 'joji',
