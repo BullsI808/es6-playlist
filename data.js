@@ -255,6 +255,14 @@ const data = [
     },
 
     {
+        artist:'panda eyes',
+        genre:'NSFWelectronic',
+        song:'fuck off',
+        image:'https://i.ytimg.com/vi/SrxedErOyrs/maxresdefault.jpg',
+        video:'https://www.youtube.com/watch?v=SrxedErOyrs'
+    },
+
+    {
         artist: 'joji',
         genre: 'rap', 
         song: 'head in the clouds',

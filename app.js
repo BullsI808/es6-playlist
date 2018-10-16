@@ -11,7 +11,7 @@ const btn6 = document.querySelector('#btn6');
 const btn7 = document.querySelector('#btn7');
 const randomBtn = document.querySelector('#randomBtn');
 
-//base page code
+//base landing page code
 
 const home = data.filter(song =>{
     return song.genre === 'home';
@@ -176,11 +176,13 @@ btn7.addEventListener('click', () =>{
 //renders the random song
 
 randomBtn.addEventListener('click', ()=>{
-    let math = Math.floor(Math.random()*94 + 1);
+    let math = Math.floor(Math.random()*97 + 1);
     result1.innerHTML = randomSong(data[math]);
 });
 
 //finds a random song
+//has a plus 1 so that it does not pull the home genre
+
 const randomSong=(data) =>{
     return `
     <div> ${data.genre} <br> ${data.artist} <br> ${data.song} <br> <a href = ${data.video} target = 'blank'>song link </a></div>
