@@ -122,18 +122,14 @@ const memes = data.filter(song =>{
 })
 .join('');
 
-//NSFW electronic code
+//dont click
 
-const NSFWelectronic = data.filter(song =>{
-    return song.genre === 'NSFWelectronic';
+const dontClick = data.filter(song =>{
+    return song.genre === 'dontClick';
 })
 .map(song =>{
     return `
-    <div>  ${song.genre} <br> ${song.artist} <br> ${song.song} <br> <a href = ${song.video} target = 'blank'>song link </a> </div>
-    <img src = ${song.image}>
-    <br>
-    <br>
-    <br>
+    <h2> you wish this was what you thought</h2>
     `;
 })
 .join('');
@@ -168,7 +164,7 @@ btn6.addEventListener('click', ()=>{
 });
 
 btn7.addEventListener('click', () =>{
-    result1.innerHTML = NSFWelectronic;
+    result1.innerHTML = dontClick;
     alert('WARNING, the following songs are not suited for everyone. Please take this into consideration before moving onto the page. thank you');
 })
 
