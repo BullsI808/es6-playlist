@@ -2,6 +2,12 @@ const data = [
     {
         genre:'home'
     },
+    
+    {
+        genre:'dontClick',
+        video: 'https://www.youtube.com/watch?v=W6e-MbY0L10'
+    },
+
 
     {
         artist: 'shapov & trouze',
@@ -188,10 +194,6 @@ const data = [
         song:'nostalgic',
         image:'https://i.ytimg.com/vi/5qTjguPCgc8/maxresdefault.jpg',
         video:'https://www.youtube.com/watch?v=5qTjguPCgc8'
-    },
-
-    {
-        genre:'dontClick'
     },
 
     {

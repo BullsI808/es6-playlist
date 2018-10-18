@@ -129,7 +129,7 @@ const dontClick = data.filter(song =>{
 })
 .map(song =>{
     return `
-    <h2> you wish this was what you thought</h2>
+    <a href = ${song.video} target = 'blank'>song link</a>
     `;
 })
 .join('');
@@ -172,7 +172,7 @@ btn7.addEventListener('click', () =>{
 //renders the random song
 
 randomBtn.addEventListener('click', ()=>{
-    let math = Math.floor(Math.random()*97 + 1);
+    let math = Math.floor(Math.random()*89 + 2);
     result1.innerHTML = randomSong(data[math]);
 });
 
